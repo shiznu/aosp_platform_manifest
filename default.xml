@@ -88,7 +88,6 @@
   <project name="platform/external/easymock" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/eclipse-basebuilder" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/eclipse-windowbuilder" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/eglib" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/elfcopy" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/elfutils" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/embunit" remote="aosp" revision="refs/tags/android-4.2_r1"/>
