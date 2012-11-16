@@ -180,9 +180,8 @@
   <project name="platform/external/openssh" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/openssl" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project path="platform/external/openvpn" name="android_external_openvpn" remote="cm" revision="jellybean"/>
-  <project name="platform/external/opencore" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/oprofile" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/pcre" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/pcre" remote="aosp" revision="master" />
   <project name="platform/external/ping" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/ping6" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/ppp" remote="aosp" revision="refs/tags/android-4.2_r1"/>
