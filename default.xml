@@ -112,7 +112,7 @@
   <project name="platform/external/guava" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/hamcrest" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/harfbuzz" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/harfbuzz_ng" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/harfbuzz_ng" remote="aosp" revision="master" />
   <project name="platform/external/hcidump" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/hsqldb" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/hyphenation" remote="aosp" revision="refs/tags/android-4.2_r1"/>
