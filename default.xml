@@ -42,7 +42,7 @@
   <project name="platform/cts" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/dalvik" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/dalvik-snapshot" remote="aosp" revision="master" />
-  <project name="platform/dalvik2" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/dalvik2" remote="aosp" revision="master" />
   <project name="platform/development" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/aac" remote="aosp" revision="refs/tags/android-4.2_r1"/>
