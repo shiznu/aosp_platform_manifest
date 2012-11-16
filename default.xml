@@ -255,7 +255,7 @@
   <project name="platform/frameworks/volley" remote="aosp" revision="master" />
   <project name="platform/frameworks/wilhelm" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/gdk" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/hardware/akm" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/hardware/akm" remote="aosp" revision="master" />
   <project name="platform/hardware/broadcom/wlan" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/hardware/libhardware" remote="aosp" revision="refs/tags/android-4.2_r1"/>
