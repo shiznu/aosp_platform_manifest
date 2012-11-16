@@ -63,10 +63,9 @@
   <project name="platform/external/blktrace" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/bluetooth/bluedroid" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/bluetooth/bluez" remote="aosp" revision="jb-release" />
-  <project name="platform/external/bluetooth/glib" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/bluetooth/hcidump" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/bluez" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/boost" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/bluetooth/glib" remote="aosp" revision="jb-release" />
+  <project name="platform/external/bluetooth/hcidump" remote="aosp" revision="jb-release" />
+  <project name="platform/external/boost" remote="aosp" revision="master" />
   <project name="platform/external/bouncycastle" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/bsdiff" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/bzip2" remote="aosp" revision="refs/tags/android-4.2_r1"/>
