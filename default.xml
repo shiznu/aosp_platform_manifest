@@ -113,11 +113,10 @@
   <project name="platform/external/hamcrest" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/harfbuzz" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/harfbuzz_ng" remote="aosp" revision="master" />
-  <project name="platform/external/hcidump" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/hsqldb" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/hsqldb" remote="aosp" revision="master" />
   <project name="platform/external/hyphenation" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/icu4c" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/id3lib" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/id3lib" remote="aosp" revision="master" />
   <project name="platform/external/iproute2" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/ipsec-tools" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/iptables" remote="aosp" revision="refs/tags/android-4.2_r1"/>
