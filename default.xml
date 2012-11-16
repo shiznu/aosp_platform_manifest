@@ -124,9 +124,9 @@
   <project name="platform/external/javasqlite" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/javassist" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/jdiff" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/jenkins-hash" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/jenkins-hash" remote="aosp" revision="master" />
   <project name="platform/external/jhead" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/jline" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/jline" remote="aosp" revision="master" />
   <project name="platform/external/jmdns" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/jmonkeyengine" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/jpeg" remote="aosp" revision="refs/tags/android-4.2_r1"/>
