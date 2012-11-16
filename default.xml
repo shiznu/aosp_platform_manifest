@@ -222,8 +222,7 @@
   <project name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/wpa_supplicant_6" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/wpa_supplicant_8" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/xdelta3" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/xerces-cpp" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/xerces-cpp" remote="aosp" revision="master" />
   <project name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/xmp_toolkit" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/yaffs2" remote="aosp" revision="refs/tags/android-4.2_r1"/>
