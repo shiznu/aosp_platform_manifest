@@ -83,7 +83,6 @@
   <project name="platform/external/dhcpcd" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/dnsmasq" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/doclava" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/dosfstools" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/dropbear" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/e2fsprogs" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/easymock" remote="aosp" revision="refs/tags/android-4.2_r1"/>
