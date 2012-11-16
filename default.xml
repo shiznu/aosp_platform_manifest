@@ -54,7 +54,7 @@
   <project name="platform/external/apache-apr-util" remote="aosp" revision="master" />
   <project name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/apache-http" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/apache-log4cxx" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/apache-log4cxx" remote="aosp" revision="master" />
   <project name="platform/external/apache-qp" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/apache-xml" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/apple-coreaudiosamples" remote="aosp" revision="refs/tags/android-4.2_r1"/>
