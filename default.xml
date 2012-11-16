@@ -161,7 +161,7 @@
   <project name="platform/external/linux-tools-perf" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/littlemock" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/llvm" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/login-items-ae" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/login-items-ae" remote="aosp" revision="master" />
   <project name="platform/external/lohit-fonts" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/markdown" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/mdnsresponder" remote="aosp" revision="refs/tags/android-4.2_r1"/>
