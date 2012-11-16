@@ -32,35 +32,6 @@
   <project name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="device/generic/mips" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="device/generic/x86" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/google/accessory/adk2012" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/google/accessory/adk2012_demo" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/google/phantasm" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/htc/common" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/htc/dream" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/htc/dream-sapphire" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/htc/passion" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/htc/passion-common" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/htc/sapphire" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/lge/mako" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/lge/mako-kernel" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/moto/common" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/moto/stingray" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/moto/wingray" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/sample" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/samsung/crespo" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/samsung/crespo4g" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/samsung/maguro" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/samsung/manta" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/samsung/toro" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/samsung/toroplus" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/samsung/torospr" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/samsung/tuna" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/samsung_slsi/arndale" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/sony/lt26" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/ti/bootloader/uboot" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="kernel/common" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="kernel/exynos" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="kernel/goldfish" remote="aosp" revision="refs/tags/android-4.2_r1"/>
