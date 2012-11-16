@@ -179,12 +179,12 @@
   <project name="platform/external/nist-sip" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/oauth" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/okhttp" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/opencore" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/opencv" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/openfst" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/openssh" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/openssl" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/openvpn" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project path="platform/external/openvpn" name="platform_external_openvpn" remote="cm" revision="jellybean"/>
+  <project name="platform/external/opencore" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/oprofile" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/pcre" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/ping" remote="aosp" revision="refs/tags/android-4.2_r1"/>
