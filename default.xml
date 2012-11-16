@@ -18,6 +18,9 @@
   <default remote="aosp"
            sync-j="4" />
 
+   <project path="build" name="android_build" remote="smithdanea" revision="jb" >
+	   <copyfile src="core/root.mk" dest="Makefile" />
+   </project>
 
   <project name="accessories/manifest" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="device/asus/grouper" remote="aosp" revision="refs/tags/android-4.2_r1"/>
@@ -71,7 +74,6 @@
   <project name="platform/bootable/bootloader/legacy" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/bootable/diskinstaller" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/bootable/recovery" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/build" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/cts" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/dalvik" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/dalvik-snapshot" remote="aosp" revision="refs/tags/android-4.2_r1"/>
