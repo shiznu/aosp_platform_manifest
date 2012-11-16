@@ -209,20 +209,17 @@
   <project name="platform/external/svox" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/tagsoup" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/tcpdump" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/tesseract" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/tinyalsa" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/tinyxml" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/tinyxml2" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/tremolo" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/tremor" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/unicode" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/utf8proc" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/unicode" remote="aosp" revision="master" />
+  <project name="platform/external/utf8proc" remote="aosp" revision="master" />
   <project name="platform/external/v8" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/valgrind" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/webkit" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/webp" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/wpa_supplicant" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/wpa_supplicant_6" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/wpa_supplicant_8" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/xdelta3" remote="aosp" revision="refs/tags/android-4.2_r1"/>
