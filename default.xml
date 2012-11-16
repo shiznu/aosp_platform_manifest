@@ -276,7 +276,7 @@
   <project name="platform/hardware/samsung_slsi/exynos5" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/hardware/ti/omap4-aah" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/hardware/ti/omap4-aah" remote="aosp" revision="master" />
   <project name="platform/hardware/ti/wlan" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/hardware/ti/wpan" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/libcore" remote="aosp" revision="refs/tags/android-4.2_r1"/>
