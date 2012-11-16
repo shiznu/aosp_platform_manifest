@@ -103,7 +103,6 @@
   <project name="platform/external/fsck_msdos" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/ganymed-ssh2" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/gcc-demangle" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/gdata" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/genext2fs" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/giflib" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/google-diff-match-patch" remote="aosp" revision="refs/tags/android-4.2_r1"/>
