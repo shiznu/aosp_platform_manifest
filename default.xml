@@ -32,14 +32,8 @@
   <project name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="device/generic/mips" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="device/generic/x86" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="kernel/common" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="kernel/exynos" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="kernel/goldfish" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="kernel/msm" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="kernel/omap" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="kernel/samsung" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="kernel/tegra" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="mirror/manifest" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="kernel/common" remote="aosp" revision="master" />
+  <project name="kernel/tegra" remote="aosp" revision="android-tegra3-grouper-3.1-jb-mr1"/>
   <project name="platform/abi/cpp" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/bionic" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/bootable/bootloader/legacy" remote="aosp" revision="refs/tags/android-4.2_r1"/>
