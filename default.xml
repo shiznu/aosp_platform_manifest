@@ -187,10 +187,10 @@
   <project name="platform/external/ppp" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/proguard" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/protobuf" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/pthreads" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/pthreads" remote="aosp" revision="master" />
   <project name="platform/external/qemu" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/qemu-pc-bios" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/qt" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/qt" remote="aosp" revision="master" />
   <project name="platform/external/quake" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/regex-re2" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/replicaisland" remote="aosp" revision="refs/tags/android-4.2_r1"/>
