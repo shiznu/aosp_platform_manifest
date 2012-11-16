@@ -249,7 +249,6 @@
   <project name="platform/frameworks/opt/photoviewer" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/frameworks/opt/telephony" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/frameworks/policies/base" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/frameworks/rs" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/frameworks/testing" remote="aosp" revision="refs/tags/android-4.2_r1"/>
