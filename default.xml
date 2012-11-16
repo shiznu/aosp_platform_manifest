@@ -8,8 +8,7 @@
 	   fetch="https://github.com/smithdanea/" />
 
   <remote  name="aosp"
-           fetch=".."
-           review="https://android-review.googlesource.com/" />
+	  fetch="https://android.googlesource.com/" .>
   <default revision="refs/tags/android-4.2_r1"
            remote="aosp"
            sync-j="4" />
