@@ -94,7 +94,7 @@
   <project name="platform/external/esd" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/expat" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/eyes-free" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/faad" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/faad" remote="aosp" revision="master" />
   <project name="platform/external/fat32lib" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/fdlibm" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/flac" remote="aosp" revision="refs/tags/android-4.2_r1"/>
