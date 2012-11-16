@@ -280,8 +280,8 @@
   <project name="platform/hardware/ti/wlan" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/hardware/ti/wpan" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/libcore" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/libcore-snapshot" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/libcore2" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/libcore-snapshot" remote="aosp" revision="master" />
+  <project name="platform/libcore2" remote="aosp" revision="master" />
   <project name="platform/libnativehelper" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project path="platform/manifest" name="aosp_platform_manifest" remote="smithdanea" revision="master"/>
   <project name="platform/motodev" remote="aosp" revision="refs/tags/android-4.2_r1"/>
