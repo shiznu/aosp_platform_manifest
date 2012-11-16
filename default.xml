@@ -98,7 +98,7 @@
   <project name="platform/external/fat32lib" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/fdlibm" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/flac" remote="aosp" revision="refs/tags/android-4.2_r1"/>
-  <project name="platform/external/free-image" remote="aosp" revision="refs/tags/android-4.2_r1"/>
+  <project name="platform/external/free-image" remote="aosp" revision="master" />
   <project name="platform/external/freetype" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/fsck_msdos" remote="aosp" revision="refs/tags/android-4.2_r1"/>
   <project name="platform/external/ganymed-ssh2" remote="aosp" revision="refs/tags/android-4.2_r1"/>
